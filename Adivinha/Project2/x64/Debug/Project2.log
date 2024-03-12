@@ -1,0 +1,4 @@
+﻿  FileName.cpp
+C:\Users\aluno\source\repos\Project2\Project2\FileName.cpp(5,1): warning C4326: tipo de retorno de 'main' deve ser 'int' em vez de 'void'
+C:\Users\aluno\source\repos\Project2\Project2\FileName.cpp(7,12): warning C4244: 'argumento': conversão de 'time_t' para 'unsigned int', possível perda de dados
+  Project2.vcxproj -> C:\Users\aluno\source\repos\Project2\x64\Debug\Project2.exe
